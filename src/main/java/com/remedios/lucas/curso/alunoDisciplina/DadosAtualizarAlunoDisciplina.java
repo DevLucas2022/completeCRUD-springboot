@@ -11,6 +11,7 @@ public record DadosAtualizarAlunoDisciplina(
         Double nota2,
         Double notaAtividade,
         Double media,
-        String feedback
+        String feedback,
+        String ponto_melhoria
 ) {
 }
